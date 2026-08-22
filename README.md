@@ -1,5 +1,5 @@
 # 💫 About Me:
-Motivated B.tech CSE graduate with strong foundations in Python and MYSQL<br>seeking an entry-level software developer role to apply academic knowledge <br>and contribute to building scalable applications. Eager to learn and grow while<br>delivering vale through problem-solving and teamwork. 
+Motivated B.tech AIDS graduate with strong foundations in Python and MYSQL<br>seeking an entry-level software developer role to apply academic knowledge <br>and contribute to building scalable applications. Eager to learn and grow while<br>delivering vale through problem-solving and teamwork. 
 
 
 ## 🌐 Socials:
